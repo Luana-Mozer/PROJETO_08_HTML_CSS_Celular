@@ -1,2 +1,3 @@
-# PROJETO_08_HTML_CSS_Celular
-Nesse projeto criei uma interface de celular que usa o iframe para navegar nas minhas redes sociais.
+# EM CONSTRUÇÃO....
+Nesse projeto de HTML5 e CSS3 você pode conferir um celular criado com iframe onde você consegue acessas as minhas redes sociais.
+https://luana-mozer.github.io/PROJETO_08_HTML_CSS_Celular_com_iframe/
