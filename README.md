@@ -1,6 +1,7 @@
 # Links e Simulação de Dispositivo
 # [CLIQUE AQUI E CONFIRA](https://luana-mozer.github.io/PROJETO_08_HTML_CSS_Celular/)
 <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/28bc780a-11dd-4c92-9c63-cc166cd61ce5" />
+
 ## 1. Resumo do Projeto
 
 O projeto em questão é uma aplicação web estática desenvolvida com HTML e CSS. Seu objetivo principal é atuar como um agregador de links para redes sociais e plataformas online, apresentando-os em um ambiente que simula a interface de um dispositivo móvel.
