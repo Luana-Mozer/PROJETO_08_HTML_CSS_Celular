@@ -4,6 +4,7 @@
 ## 1. Resumo do Projeto
 
 O projeto em questão é uma aplicação web estática desenvolvida com HTML e CSS. Seu objetivo principal é atuar como um agregador de links para redes sociais e plataformas online, apresentando-os em um ambiente que simula a interface de um dispositivo móvel.
+<img width="712" height="588" alt="Image" src="https://github.com/user-attachments/assets/35771d35-bc5c-4aca-a14b-eb72826a6fc7" />
 
 ## 2. Arquitetura e Estrutura de Código
 
@@ -16,7 +17,7 @@ Páginas de Redes Sociais (linkedin.html, github.html, etc.): Arquivos HTML que 
 Folhas de Estilo (style.css, config.css): Arquivos CSS responsáveis pela estilização da página principal e das páginas internas, incluindo o design do "celular", o posicionamento dos elementos e os efeitos visuais de "hover".
 
 ## 3. Funcionalidades Implementadas
-
+<img width="741" height="591" alt="Image" src="https://github.com/user-attachments/assets/a66e985d-eda2-4c88-a969-86cc2f9983d4" />
 Simulação de Dispositivo: A interface principal é um div estilizado para se parecer com um smartphone, onde o conteúdo de outras páginas é carregado.
 
 Navegação Integrada: A navegação entre as diferentes redes sociais é realizada através de links que atualizam o conteúdo do iframe, permitindo ao usuário "explorar" cada plataforma sem sair da página principal.
