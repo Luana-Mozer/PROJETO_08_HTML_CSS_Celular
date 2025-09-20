@@ -18,8 +18,9 @@ Páginas de Redes Sociais (linkedin.html, github.html, etc.): Arquivos HTML que 
 Folhas de Estilo (style.css, config.css): Arquivos CSS responsáveis pela estilização da página principal e das páginas internas, incluindo o design do "celular", o posicionamento dos elementos e os efeitos visuais de "hover".
 
 ## 3. Funcionalidades Implementadas
-<img width="741" height="591" alt="Image" src="https://github.com/user-attachments/assets/a66e985d-eda2-4c88-a969-86cc2f9983d4" />
-Simulação de Dispositivo: A interface principal é um div estilizado para se parecer com um smartphone, onde o conteúdo de outras páginas é carregado.
+<img width="741" height="591" alt="Image" src="https://github.com/user-attachments/assets/a66e985d-eda2-4c88-a969-86cc2f9983d4" /><br>
+
+A interface principal é um div estilizado para se parecer com um smartphone, onde o conteúdo de outras páginas é carregado.
 
 Navegação Integrada: A navegação entre as diferentes redes sociais é realizada através de links que atualizam o conteúdo do iframe, permitindo ao usuário "explorar" cada plataforma sem sair da página principal.
 
